@@ -22,8 +22,24 @@ I am particularly interested in building learning-based systems that can **under
 ## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,opencv,linux,docker,git,github,bash&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,opencv,linux,ubuntu,bash,powershell,docker,kubernetes,git,github,gitlab,vscode,pycharm,anaconda,cmake,raspberrypi,arduino,aws,gcp,azure,postgres,mysql,mongodb,redis,fastapi,django,flask,react,nextjs,nodejs,html,css,js,ts,latex,matlab&perline=8" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,opencv,linux,ubuntu,bash,docker,kubernetes,git,github,gitlab,vscode,pycharm,anaconda,cmake,raspberrypi,arduino,matlab,latex,django,flask,fastapi,postgres,mysql,mongodb,redis,aws,gcp,azure,react,nextjs,nodejs,js,ts,html,css&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-222222" />
+  <img src="https://img.shields.io/badge/COLMAP-333333" />
+  <img src="https://img.shields.io/badge/Open3D-222222" />
+  <img src="https://img.shields.io/badge/uv-6E56CF" />
+</p>
+
 
 <p align="center">
   <picture>
