@@ -21,8 +21,8 @@ I am particularly interested in building learning-based systems that can **under
 
 ## Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,docker,git,github,cpp,bash,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,opencv,linux,docker,git,github,bash&perline=3" />
 </p>
 
 <p align="center">
