@@ -22,11 +22,7 @@ I am particularly interested in building learning-based systems that can **under
 ## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,opencv,linux,ubuntu,bash,powershell,docker,kubernetes,git,github,gitlab,vscode,pycharm,anaconda,cmake,raspberrypi,arduino,aws,gcp,azure,postgres,mysql,mongodb,redis,fastapi,django,flask,react,nextjs,nodejs,html,css,js,ts,latex,matlab&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,opencv,linux,ubuntu,bash,docker,kubernetes,git,github,gitlab,vscode,pycharm,anaconda,cmake,raspberrypi,arduino,matlab,latex,django,flask,fastapi,postgres,mysql,mongodb,redis,aws,gcp,azure,react,nextjs,nodejs,js,ts,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,opencv,linux,ubuntu,bash,powershell,docker,kubernetes,git,github,gitlab,vscode,anaconda,cmake,raspberrypi,aws,postgres,mysql,django,react,nextjs,nodejs,html,css,js,ts,latex,matlab&perline=8" />
 </p>
 
 <p align="center">
